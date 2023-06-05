@@ -1,1 +1,0 @@
-jdbc:mysql://my-server-asd.mysql.database.azure.com:3306/mysql?useSSL=true;
