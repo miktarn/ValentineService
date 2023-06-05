@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://my-server-asd.mysql.database.azure.com:3306/users?useSSL=TRUE
+    username: fuck_society
+    password: asd__228
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL8Dialect
